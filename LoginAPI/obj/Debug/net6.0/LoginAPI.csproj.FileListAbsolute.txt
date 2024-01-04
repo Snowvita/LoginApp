@@ -1,0 +1,328 @@
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\package-lock.json
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\package.json
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Snowvita B\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+C:\Users\Snowvita B\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\package-lock.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\package.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+C:\Users\Snowvita B\LoginPage\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\appsettings.json
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\package-lock.json
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\package.json
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LoginPageCopy2\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+D:\LoginPageCopy2\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\appsettings.json
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\package-lock.json
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\package.json
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LoginSignin\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+D:\LoginSignin\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\appsettings.json
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\package-lock.json
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\package.json
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LoginSignin - Copy\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+D:\LoginSignin - Copy\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\appsettings.json
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\package-lock.json
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\package.json
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SuccessLoginSignin\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+D:\SuccessLoginSignin\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\appsettings.json
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\package-lock.json
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\package.json
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+D:\SuccessLoginSignin - Copy\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\appsettings.json
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\package-lock.json
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\package.json
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Npgsql.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SuccessfulLoginSignin\LoginAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\scopedcss\bundle\LoginAPI.styles.css
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CopyComplete
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+D:\SuccessfulLoginSignin\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll
