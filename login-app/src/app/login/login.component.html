@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <link rel="stylesheet" type="text/css" href="login.component.css"/>
+</head>
+<body>
+<div class="container">
+    <h2>Login</h2>
+    <div class="form-group">
+      <label for="email">Email: </label>
+      <input type="email" class="form-control" id="email" [(ngModel)]="email" placeholder="Enter email address">
+    </div>
+    <br/>
+    <div class="form-group">
+      <label for="password">Password: </label>
+      <input type="password" class="form-control" id="password" [(ngModel)]="password" placeholder="Enter password">
+    </div>
+    <br/>
+    <div class="form-group">
+      <button class="btn-btn-primary" (click)="authenticate()">Login</button> 
+     
+      <br/>
+      <br/>
+      <p>Or SignIn Using</p>
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <asl-google-signin-button class="google" type="icon" size="large"></asl-google-signin-button>
+      </div>
+      <!-- <asl-google-signin-button class='google' type='icon' size='large'></asl-google-signin-button>  -->
+      <br/>
+      <p>Don't have an account?<button class="btn-btn" (click)="newuser()">Signup</button></p>
+    </div>
+    
+    <!-- <div class="error" *ngIf="error">{{ error }}</div> -->
+</div>
+</body>
+</html>

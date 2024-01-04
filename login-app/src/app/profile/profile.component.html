@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <link rel="stylesheet" type="text/css" href="profile.component.css"/>
+</head>
+<body>
+
+<div class="container">
+    <h2>User Profile</h2>
+    <div *ngIf="user">
+      <div><strong>First Name: </strong> {{ user.fname }}</div>
+      <br/>
+      <div><strong>Last Name: </strong> {{ user.lname }}</div>
+      <br/>
+      <div><strong>Email: </strong> {{ user.email }}</div>
+      <br/>
+      <div><strong> Date of Birth: </strong> {{ user.dob }}</div>
+      <br/>
+      <br/>
+      <br/>
+      <div><button class ="btn-btn-primary" (click)="logout()">Logout</button></div>
+    </div>
+    <br/>
+    <div class="error" *ngIf="error">{{ error }}</div>
+  </div>
+      
+</body>
+</html>

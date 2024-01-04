@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="signup.component.css"/>
+    <title>Document</title>
+</head>
+<body>
+    
+    <div class="container">
+        <h2>Sign Up</h2>
+        <form (ngSubmit)="onSubmit()" #signupForm="ngForm">
+          <div class="form-group">
+            <label for="fname">First Name: </label>
+            <input type="text" class="form-control" id="fname" [(ngModel)]="fname" name="fname" placeholder="eg, John">
+          </div>
+          <br/>
+          <div class="form-group">
+            <label for="lname">Last Name:  </label>
+            <input type="text" class="form-control" id="lname" [(ngModel)]="lname" name="lname" placeholder="eg, Smith"required>
+          </div>
+          <br/>
+          <div class="form-group">
+            <label for="dob">Date of Birth: </label>
+            <input type="text" class="form-control" id="dob" [(ngModel)]="dob" name="dob" placeholder="eg, 2000-01-13" required>
+          </div>
+          <br/>
+          <div class="form-group">
+            <label>Gender:  </label>
+            
+              <input type="radio" class="form-check-input" id="male" value="male" [(ngModel)]="gender" name="gender" required>
+              <label class="form-check-label" for="male">Male   </label>
+              <input type="radio" class="form-check-input" id="female" value="female" [(ngModel)]="gender" name="gender" required>
+              <label class="form-check-label" for="female">Female</label>
+            </div>
+            <br/>
+            <div class="form-group">
+                <label for="email">Email: </label>
+                <input type="email" class="form-control" id="email" [(ngModel)]="email" name="email" placeholder="eg, example@gmail.com" required>
+              </div>
+              <br/>
+            <div class="form-group">
+                <label for="password">Password: </label>
+                <input type="password" class="form-control" id="password" [(ngModel)]="password" name="password" placeholder="Minimum of 8 characters" required invisible>
+            </div>
+            <br/>
+          <div class="buttondiv">
+          <button type="submit" class="btn-btn-primary">Create</button>          
+          <button type="reset" class="btn-btn-primary">Cancel</button>
+          <br/>
+          <button class="btn-btn-primary" (click)="back()">Back</button>
+          </div>
+          <br/>
+        </form>
+    </div>
+</body>
+</html>
